@@ -1,1 +1,1 @@
-##Snake Game made using HTML, CSS and JavaScript
+# Snake Game made using HTML, CSS and JavaScript
